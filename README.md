@@ -10,7 +10,7 @@ npm run dev -- -p 2000
 yarn dev -p 2000
 ```
 
-Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the result.
+Open [http://localhost:2000/calc1](http://localhost:2000/calc1) with your browser to see the result.
 
 You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
 <br/>
