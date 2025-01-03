@@ -15,7 +15,7 @@ Open [http://localhost:2000/calc1](http://localhost:2000/calc1) with your browse
 You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
 <br/>
 <br/>
-<img src="[https://github.com/samanes11/ios-Calculator/blob/main/ios%20calculator.png?raw=true]" />
+<img src="https://github.com/samanes11/ios-Calculator/blob/main/ios%20calculator.png?raw=true" />
 <br/>
 Best regards.
 <br/>
