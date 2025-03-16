@@ -5,9 +5,9 @@ This is a uservice project from Turing Research Team.
 First, run the development server:
 
 ```bash
-npm run dev -- -p 2000
+npm run dev -- -p 4000
 # or
-yarn dev -p 2000
+yarn dev -p 4000
 ```
 
 Open [http://localhost:4000/](http://localhost:4000/) with your browser to see the result.
