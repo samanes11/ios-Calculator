@@ -15,7 +15,7 @@ Open [http://localhost:4000/](http://localhost:4000/) with your browser to see t
 You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
 <br/>
 <br/>
-<img src="https://github.com/samanes11/uweather/blob/main/photo_2024-09-20_20-46-09.jpg?raw=true" />
+<img src="https://github.com/samanes11/ios-Calculator/blob/main/ios%20calculator.png" />
 <br/>
 Best regards.
 <br/>
